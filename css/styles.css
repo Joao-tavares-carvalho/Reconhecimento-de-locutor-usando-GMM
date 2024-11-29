@@ -1,0 +1,28 @@
+section.main.css-1v3fvcr.egzxvld3 {
+
+    #background-color:#DFE3EA;
+    border:0px solid #FF4B4B;
+    padding: 5% 5% 5% 10%;
+    text-align: center;
+
+}
+
+footer{
+    visibility: hidden;
+}
+
+header{
+    visibility: hidden;
+}
+
+#botao{ text-align: center }
+.stButton > button{
+    width: 100px;
+    #text-align: center;
+    padding: 5px 2px;
+    border: 2px solid #eee;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+
