@@ -1,0 +1,33 @@
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+DIRETORIO DO ARQUIVO DE TRENO: C:\Users\User\Desktop\RECONHECIMENTO_LOCUTOR_GMM\TFC\TRENOS\base_dados_criado\1_treno.txt
+DITETORIO DO ARQUIVO DO MODELO GUARDADO: C:\Users\User\Desktop\RECONHECIMENTO_LOCUTOR_GMM\TFC\MODELOS\base_dados_criado\resultados\
+
+PARAMETROS
+Comprimento_dos_dados_de_treno_in_s =4
+Numero_de_mfcc =13
+Numero_de_gausiano_GMM =5
+Iteracao_maxima_GMM =27
+
+DIRETORIO DO ARQUIVO DE TESTE:
+TOTAL LOCUTORES TESTE:
+ERRADO               :
+ACCURACY             :
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+DIRETORIO DO ARQUIVO DE TRENO: C:\Users\User\Desktop\RECONHECIMENTO_LOCUTOR_GMM\TFC\TRENOS\base_dados_criado\1_treno.txt
+DITETORIO DO ARQUIVO DO MODELO GUARDADO: C:\Users\User\Desktop\RECONHECIMENTO_LOCUTOR_GMM\TFC\MODELOS\base_dados_criado\resultados\
+
+PARAMETROS
+Comprimento_dos_dados_de_treno_in_s =4
+Numero_de_mfcc =13
+Numero_de_gausiano_GMM =5
+Iteracao_maxima_GMM =27
+
+DIRETORIO DO ARQUIVO DE TESTE:
+TOTAL LOCUTORES TESTE:
+ERRADO               :
+ACCURACY             :
