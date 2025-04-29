@@ -24,10 +24,21 @@ Antes de começar, é preciso que você tenha instalado em sua máquina o [Pytho
 
 ### Exemplo da Aplicação
 
+<table border="1">
+    <tr>
+        <td>Pagina Principal</td>
+    </tr>
+    <tr>
+        <td><img width="800" alt="image"
+                src="https://github.com/user-attachments/assets/01f6d6ac-e8b3-4864-98ca-c66173bc59a6">
+        </td>
+    </tr>
+</table>
+
 
 <table border="0">
     <tr>
-        <td>treinar modelo</td>
+        <td>Treinar modelo</td>
         <td>Testar modelo</td>
     </tr>
     <tr>
