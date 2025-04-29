@@ -26,7 +26,8 @@ Antes de começar, é preciso que você tenha instalado em sua máquina o [Pytho
 
 <table border="0">
     <tr>
-        <td>App screenshot</td>
+        <td>Treinar modelo</td>
+        <td>Testar modelo</td>
     </tr>
     <tr>
         <td><img width="400" alt="image"
