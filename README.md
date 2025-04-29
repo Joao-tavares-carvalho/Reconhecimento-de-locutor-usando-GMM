@@ -7,16 +7,13 @@
 * [Pré Requisitos](#pré-requisitos-pencil2)
 * [Status](#status-chart_with_upwards_trend)
 * [Como Rodar a Aplicação](#como-rodar-a-aplicação-)
-* [Tecnologias](#tecnologias---ferramentas-eou-libs-)
-* [Desenvolvedor](#desenvolvedor-)
   
   
 ### Descrição do Projeto
-Código em Python voltado ao reconhecimento vocal, de maneira simples e intuitiva.
-
+Este é um projeto de reconhecimento de locutor independente de texto, um sistema desenvolvido em python capas de fazer analize de voz de acordo com os dados de treino fornecidos, e cria um modelo para comparar com os dados de voz de teste.
 
 ### Funcionalidades 🏁:
- - [x] Reconhecer áudio e convertê-lo para texto.
+ - [x] .
  - [x] Interpretar texto e convertê-lo para áudio.
 
 
