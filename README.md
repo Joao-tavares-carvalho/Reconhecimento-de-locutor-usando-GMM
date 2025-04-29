@@ -6,11 +6,12 @@
 * [Funcionalidades](#funcionalidades-)
 * [Pré Requisitos](#pré-requisitos-pencil2)
 * [Exemplo da Aplicação](#Exemplo-da-Aplicação)
-* [Como Rodar a Aplicação](#como-rodar-a-aplicação-)
+* [Como Rodar a Aplicação](#como-rodar-a-aplicação)
   
   
 ### Descrição do Projeto
 Este é um projeto de reconhecimento de locutor independente de texto, um sistema desenvolvido em python capas de fazer analize de voz de acordo com os dados de treino fornecidos, e cria um modelo para comparar com os dados de voz de teste.
+
 
 ### Funcionalidades 🏁:
  - [x] Sistema de identificação de locutor independentemente de texto.
@@ -19,8 +20,10 @@ Este é um projeto de reconhecimento de locutor independente de texto, um sistem
  - [x] Faser treino de modelo e guardar esse modelo.
  - [x] Faser teste de modelos ja treinados e representar os resultados em percentagem.
 
-  ### Pré Requisitos :pencil2:
+
+### Pré Requisitos :pencil2:
 Antes de começar, é preciso que você tenha instalado em sua máquina o [Python3](https://www.python.org/downloads/release/python-390/) e recomendo utilizar [PyCharm](https://www.jetbrains.com/pycharm/download/?section=windows).
+
 
 ### Exemplo da Aplicação
 
@@ -34,7 +37,6 @@ Antes de começar, é preciso que você tenha instalado em sua máquina o [Pytho
         </td>
     </tr>
 </table>
-
 
 <table border="0">
     <tr>
@@ -51,11 +53,13 @@ Antes de começar, é preciso que você tenha instalado em sua máquina o [Pytho
     </tr>
 </table>
 
+### Como Rodar a Aplicação
+A demonstração foi implantada usando Python 3.9. **Sugiro criar um novo ambiente virtual** e executar:
 
+```
+git clone https://github.com/Joao-tavares-carvalho/Reconhecimento-de-locutor-usando-GMM.git
+cd Reconhecimento-de-locutor-usando-GMM
+pip install -r requirements.txt
+streamlit run Aplicativo.py
+```
 
-
-
-
-
-
-### Como Rodar a Aplicação ▶
