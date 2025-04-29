@@ -5,7 +5,7 @@
 * [Descrição](#descrição-do-projeto)
 * [Funcionalidades](#funcionalidades-)
 * [Pré Requisitos](#pré-requisitos-pencil2)
-* [Status](#status-chart_with_upwards_trend)
+* [Exemplo da Aplicação](#Exemplo-da-Aplicação)
 * [Como Rodar a Aplicação](#como-rodar-a-aplicação-)
   
   
@@ -22,10 +22,23 @@ Este é um projeto de reconhecimento de locutor independente de texto, um sistem
   ### Pré Requisitos :pencil2:
 Antes de começar, é preciso que você tenha instalado em sua máquina o [Python3](https://www.python.org/downloads/release/python-390/) e recomendo utilizar [PyCharm](https://www.jetbrains.com/pycharm/download/?section=windows).
 
-### Status :chart_with_upwards_trend:
-<h4 align="center">
-     :heavy_check_mark: Reconhecimento de Fala 🚀 Em finalização :heavy_check_mark:
- </h4>
+### Exemplo da Aplicação
+<table border="0">
+    <tr>
+        <td>Captura da tela do Aplicativo</td>
+        <td>Captura da tela do Aplicativo</td>
+    </tr>
+    <tr>
+        <td><img width="400" alt="image"
+                src="https://github.com/user-attachments/assets/14b47e49-ef5d-4f16-8639-6bea78647739">
+
+        </td>
+        <td><img width="400" alt="image"
+                src="https://github.com/user-attachments/assets/5a78eef7-6a72-45a9-add4-51ce88563604">
+                
+        </td>
+    </tr>
+</table>
 
 
 ### Como Rodar a Aplicação ▶
