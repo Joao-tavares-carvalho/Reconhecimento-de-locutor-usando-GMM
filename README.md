@@ -13,10 +13,11 @@
 Este é um projeto de reconhecimento de locutor independente de texto, um sistema desenvolvido em python capas de fazer analize de voz de acordo com os dados de treino fornecidos, e cria um modelo para comparar com os dados de voz de teste.
 
 ### Funcionalidades 🏁:
- - [x] .
- - [x] Interpretar texto e convertê-lo para áudio.
-
-![jpg](https://github.com/user-attachments/assets/bad21b3f-04a2-4a64-bde2-c0b376881172)
+ - [ ] Sistema de identificação de locutor independentemente de texto.
+ - [ ] usa o modelo GMM-UBM para a classificacão.
+ - [x] Capas de gravar audio.
+ - [x] Faser treino de modelo e guardar esse modelo.
+ - [x] faser teste de modelos ja trinados e representar os resultados em percentagem.
 
 
   ### Pré Requisitos :pencil2:
