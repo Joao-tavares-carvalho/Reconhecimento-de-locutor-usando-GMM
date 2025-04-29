@@ -20,6 +20,14 @@ Código em Python voltado ao reconhecimento vocal, de maneira simples e intuitiv
  - [x] Interpretar texto e convertê-lo para áudio.
 
 
-@@ -9,7 +18,7 @@ Código em Python voltado ao reconhecimento vocal, de maneira simples e intuitiv
-     <img src="https://img.shields.io/static/v1?label=pip&message=21.2.4&color=purple&style=for-the-badge"/>
- </h1>
+### Pré Requisitos :pencil2:
+Antes de começar, é preciso que você tenha instalado em sua máquina as seguintes ferramentas:
+[Python3](https://www.python.org/downloads/release/python-390/).
+
+### Status :chart_with_upwards_trend:
+<h4 align="center">
+     :heavy_check_mark: Reconhecimento de Fala 🚀 Em finalização :heavy_check_mark:
+ </h4>
+
+
+### Como Rodar a Aplicação ▶
