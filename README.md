@@ -1,6 +1,6 @@
 # Reconhecimento-de-locutor-usando-GMM
 
-### Tabela de Conteúdos 📖
++### Tabela de Conteúdos 📖
 
 + * [Descrição](#descrição-do-projeto)
 + * [Funcionalidades](#funcionalidades-)
@@ -9,6 +9,7 @@
 + * [Como Rodar a Aplicação](#como-rodar-a-aplicação-)
 + * [Tecnologias](#tecnologias---ferramentas-eou-libs-)
 + * [Desenvolvedor](#desenvolvedor-)
++
   
   
 ### Descrição do Projeto
