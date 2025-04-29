@@ -77,6 +77,6 @@ streamlit run Aplicativo.py
 
 ### Dúvidas? Comentários?
 
-Meu email: cttavares97@gmail.com
+Email: cttavares97@gmail.com
 
 
