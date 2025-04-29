@@ -29,7 +29,7 @@ Antes de começar, é preciso que você tenha instalado em sua máquina o [Pytho
         <td>Pagina Principal</td>
     </tr>
     <tr>
-        <td><img width="810" alt="image"
+        <td><img width="820" alt="image"
                 src="https://github.com/user-attachments/assets/01f6d6ac-e8b3-4864-98ca-c66173bc59a6">
         </td>
     </tr>
