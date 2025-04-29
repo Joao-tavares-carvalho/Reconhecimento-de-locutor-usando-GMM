@@ -1,5 +1,6 @@
 # Reconhecimento-de-locutor-usando-GMM
 
+
 ### Tabela de Conteúdos 📖
 
 * [Descrição](#descrição-do-projeto)
@@ -8,12 +9,16 @@
 * [Exemplo da Aplicação](#Exemplo-da-Aplicação)
 * [Como Rodar a Aplicação](#como-rodar-a-aplicação)
   
+
   
 ### Descrição do Projeto
+
 Este é um projeto de reconhecimento de locutor independente de texto, um sistema desenvolvido em python capas de fazer analize de voz de acordo com os dados de treino fornecidos, e cria um modelo para comparar com os dados de voz de teste.
 
 
+
 ### Funcionalidades 🏁:
+
  - [x] Sistema de identificação de locutor independentemente de texto.
  - [x] Usa o modelo GMM-UBM para a classificacão.
  - [x] Capas de gravar audio.
@@ -21,8 +26,11 @@ Este é um projeto de reconhecimento de locutor independente de texto, um sistem
  - [x] Faser teste de modelos ja treinados e representar os resultados em percentagem.
 
 
+
 ### Pré Requisitos :pencil2:
+
 Antes de começar, é preciso que você tenha instalado em sua máquina o [Python3](https://www.python.org/downloads/release/python-390/) e recomendo utilizar [PyCharm](https://www.jetbrains.com/pycharm/download/?section=windows).
+
 
 
 ### Exemplo da Aplicação
@@ -53,7 +61,10 @@ Antes de começar, é preciso que você tenha instalado em sua máquina o [Pytho
     </tr>
 </table>
 
+
+
 ### Como Rodar a Aplicação
+
 A demonstração foi implantada usando Python 3.9. **Sugiro criar um novo ambiente virtual** e executar:
 
 ```
@@ -62,4 +73,10 @@ cd Reconhecimento-de-locutor-usando-GMM
 pip install -r requirements.txt
 streamlit run Aplicativo.py
 ```
+
+
+### Dúvidas? Comentários?
+
+Meu email: cttavares97@gmail.com
+
 
