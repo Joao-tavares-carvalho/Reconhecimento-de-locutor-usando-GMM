@@ -71,7 +71,7 @@ A demonstração foi implantada usando Python 3.9. **Sugiro criar um novo ambien
 git clone https://github.com/Joao-tavares-carvalho/Reconhecimento-de-locutor-usando-GMM.git
 cd Reconhecimento-de-locutor-usando-GMM
 pip install -r requirements.txt
-streamlit run Aplicativo.py
+streamlit run app.py
 ```
 
 
