@@ -25,11 +25,11 @@ Antes de começar, é preciso que você tenha instalado em sua máquina o [Pytho
 ### Exemplo da Aplicação
 
 <table border="0">
+  
+    <td>Pagina inicial</td>
+  
     <tr>
-        <td>Pagina inicial</td>
-    </tr>
-    <tr>
-        <td><img width="400" alt="image"
+        <td><img width="800" alt="image"
                 src="https://github.com/user-attachments/assets/14b47e49-ef5d-4f16-8639-6bea78647739">
         </td>
         
