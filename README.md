@@ -16,8 +16,10 @@ Este é um projeto de reconhecimento de locutor independente de texto, um sistem
  - [x] .
  - [x] Interpretar texto e convertê-lo para áudio.
 
+![jpg](https://github.com/user-attachments/assets/bad21b3f-04a2-4a64-bde2-c0b376881172)
 
-### Pré Requisitos :pencil2:
+
+  ### Pré Requisitos :pencil2:
 Antes de começar, é preciso que você tenha instalado em sua máquina as seguintes ferramentas:
 [Python3](https://www.python.org/downloads/release/python-390/).
 
