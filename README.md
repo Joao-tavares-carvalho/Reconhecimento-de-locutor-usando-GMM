@@ -24,11 +24,11 @@ Antes de começar, é preciso que você tenha instalado em sua máquina o [Pytho
 
 ### Exemplo da Aplicação
 
+
 <table border="0">
-  
     <tr>
-        <td>Treinar modelo</td>
-        <td>Testar modelo</td>
+        <td>App screenshot</td>
+        <td>Invoice template</td>
     </tr>
     <tr>
         <td><img width="400" alt="image"
