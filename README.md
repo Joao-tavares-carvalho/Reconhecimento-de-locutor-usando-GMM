@@ -20,7 +20,7 @@ Este é um projeto de reconhecimento de locutor independente de texto, um sistem
  - [x] Faser teste de modelos ja treinados e representar os resultados em percentagem.
 
   ### Pré Requisitos :pencil2:
-Antes de começar, é preciso que você tenha instalado em sua máquina o :[Python3](https://www.python.org/downloads/release/python-390/) e recomendo utilizar https://www.pycharm.org/download/.
+Antes de começar, é preciso que você tenha instalado em sua máquina o [Python3](https://www.python.org/downloads/release/python-390/) e recomendo utilizar [PyCharm] https://www.jetbrains.com/pycharm/download/?section=windows .
 
 ### Status :chart_with_upwards_trend:
 <h4 align="center">
