@@ -26,6 +26,18 @@ Antes de começar, é preciso que você tenha instalado em sua máquina o [Pytho
 
 <table border="0">
     <tr>
+        <td>Pagina inicial</td>
+    </tr>
+    <tr>
+        <td><img width="400" alt="image"
+                src="https://github.com/user-attachments/assets/14b47e49-ef5d-4f16-8639-6bea78647739">
+        </td>
+        
+    </tr>
+</table>
+
+<table border="0">
+    <tr>
         <td>Treinar modelo</td>
         <td>Testar modelo</td>
     </tr>
